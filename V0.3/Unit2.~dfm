@@ -1,0 +1,25 @@
+object Form2: TForm2
+  Left = 254
+  Top = 208
+  BorderStyle = bsDialog
+  Caption = #35828#26126
+  ClientHeight = 341
+  ClientWidth = 249
+  Color = clBtnFace
+  Font.Charset = DEFAULT_CHARSET
+  Font.Color = clWindowText
+  Font.Height = -11
+  Font.Name = 'MS Sans Serif'
+  Font.Style = []
+  HelpFile = '18'
+  OldCreateOrder = False
+  PixelsPerInch = 96
+  TextHeight = 13
+  object Label1: TLabel
+    Left = 0
+    Top = 0
+    Width = 249
+    Height = 345
+    AutoSize = False
+  end
+end
