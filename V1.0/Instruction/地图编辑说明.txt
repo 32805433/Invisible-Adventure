@@ -1,0 +1,44 @@
+The Instructions of Editing the Map
+
+(1)Directly use the test editor
+n and m,which are two integers,are in the first line(2<=n<=25,1<=m<=5);
+The following m*n matrix refers to the map.In each line there are n integers;
+After that,There are many lines of 3 integers,which represent the position of the signs,men or stairs,followed by a string which represents the info of the man,the saying of the sign or the identifier of stairs(1~10).
+The number in the map represents:
+0=space
+1=end
+2=wall
+101=ordinal monster
+//102=medium monster
+103=advanced monster
+//104=guard
+//105=special
+106=Boss
+201=mine
+202=wine
+//203=HP bottle
+204=first-aid box
+205=life
+301=torch
+302=bulb
+303=coin
+304=stone
+305=gun
+306=pin
+401=sign
+402=good man
+403=bad man
+404=business man
+405=monk
+501=door
+502=key
+503=trap
+504=rope
+601=stairs
+
+(2)Use the map editor
+Tips:1¡¢(1,1,1) can only be the space!
+     2¡¢You should use your mouse to drag the items onto the button.
+     3¡¢The name of each item will be shown with the mouse moving above it.
+
+The name of the map might be£ºdifficulty(1~5¡ù)+No.
